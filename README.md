@@ -1,0 +1,2 @@
+# Intelligent-Traffic-Management-with-Navigation-Traffic-Prediction-and-Adaptive-Signal-Control
+Project aims to develop an Intelligent Traffic Management System that seamlessly integrates maps, cameras, and signal control for efficient traffic flow. Utilizing coding, predictive analytics, and computer vision, the system is designed to enhance navigation, predict traffic conditions, and optimize signal control.
